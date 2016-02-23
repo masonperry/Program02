@@ -1,0 +1,32 @@
+Mason Perry
+Professor Prudence
+CSC 201 Introduction to Programming
+22 February 2016
+Program01 Report
+
+In this lab, I was asked to develop codes to ask a user input, and generate outputs,
+based on the user input. 
+
+Important Variables
+2.2 Half Pyramids
+"height" is a variable which connects user input to the height of Half Pyramid.
+"level" runs how many "#" should be printed for every how many levels the user decides.
+
+2.3 Full Pyramid
+"height" and "level" remain unchanged variables,
+"n" was added to mirror "#" on the other side.
+
+3.1 Right Side Parabola
+"height" is a variable which connects user input to the height of the parabola.
+x and y are the equation of the parabola.
+x_max is connected to height and the range of the right side parabola.
+
+Algorithm
+the algorithm was to have the user input a certain integer and generate a true output.
+
+Problems, and boy were there many.
+The main problem I encountered in this program, was just understanding code.
+Understanding there is no right/wrong way. I found it very difficult, because I knew what I had to do,
+but for some reason I did not know how, I think I just need more practice examples.
+As for codes I did not have many difficulties, just little technicalities
+like forgetting a parenthesis, quotes, colon, indent etc.
